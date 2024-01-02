@@ -31,10 +31,7 @@ User should be able to:
 
 ## Screen recording
 
-
 https://github.com/YaroslavYarynych/Todo-app/assets/63805271/37b7a31c-b374-4927-9872-905e40747fa2
-
-
 
 ## Setup
 
