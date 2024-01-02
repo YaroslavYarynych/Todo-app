@@ -2,7 +2,7 @@
 
 ## Overview
 
-Todo application is an efficient and modern tool for managing your tasks and plans.<br>
+Todo application is an efficient and modern tool for managing your tasks and plans. <br>
 Developed using React, TypeScript, SCSS, and interacting with the server through REST API, this application provides convenience and flexibility in managing your work time and plans.
 
 ### The challenge
@@ -31,10 +31,7 @@ User should be able to:
 
 ## Screen recording
 
-
 https://github.com/YaroslavYarynych/Todo-app/assets/63805271/37b7a31c-b374-4927-9872-905e40747fa2
-
-
 
 ## Setup
 
